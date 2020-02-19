@@ -8,6 +8,7 @@ public class Demogit1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Demogit1Application.class, args);
+        System.out.println("wx:    running in  DemogitApplication by demogit2");
     }
 
 }
