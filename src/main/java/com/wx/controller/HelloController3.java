@@ -8,6 +8,6 @@ public class HelloController3 {
 
     @RequestMapping("info")
     public String info() {
-        return "wx:   HelloStringBoot Info HahaHa        144";
+        return "wx:   HelloController3 Info HahaHa        144";
     }
 }
